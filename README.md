@@ -8,3 +8,5 @@ Uma calculadora que determina juros simples com base no valor principal, taxa de
 - `r`: Taxa de juros anual (em decimal)
 
 ## Saída
+juros_simples = p * t * r
+
