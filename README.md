@@ -1,4 +1,3 @@
-# github-final-project
 # Calculadora de Juros Simples
 
 Uma calculadora que determina juros simples com base no valor principal, taxa de juros anual e período de tempo em anos.
